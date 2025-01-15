@@ -16,6 +16,7 @@ Curso de início rápido com _Github_ by DIO ⌨️💜.
 
 # Aulas
 
+
 <table>
 	<thead>
 		<tr>
